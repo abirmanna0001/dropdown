@@ -1,0 +1,13 @@
+{
+    "Countrynames":
+        [
+           {"State":"West Bengal","Cname":"India"},
+           {"State":"Texas","Cname":"Usa"},
+           {"State":"Manitoba","Cname":"Canada"},
+           {"State":"Western Province","Cname":"Srilanka"},
+           {"State":"Lumbini Province","Cname":"Nepal"}
+        ]
+
+
+
+}
